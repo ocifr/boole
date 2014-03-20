@@ -15,7 +15,7 @@ def hello():          # Fonction qui sera appelée lorsque
                       # @webapp.route("/")    
 
      # Code renvoyé au navigateur                          
-    return "Hello World from the webapp app!"  
+    return "Hello World from the webapp app! Test git!"  
     
 if __name__ == '__main__':
     "Are we in the __main__ scope? Start test server."
